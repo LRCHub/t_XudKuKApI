@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "しりとり～りんごゴリララッパパセリ～",
+  "base_artist": "メンバー",
+  "createdAt": "2025-12-04T07:22:47.790344Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しりとり～りんごゴリララッパパセリ～",
+      "artist": "メンバー",
+      "has_synced": false,
+      "path": "select/pl_01_しりとり~りんごゴリララッパパセリ~_メンバー.txt"
+    }
+  ]
+}
